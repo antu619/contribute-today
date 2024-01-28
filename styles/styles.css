@@ -155,3 +155,13 @@ hr{
 .btn-subscribe{
     border-radius: 0 5px 5px 0;
 }
+
+/* Footer Styles */
+footer{
+    background-color: black;
+    text-align: center;
+    padding: 70px 0;
+}
+footer h3{
+    color: #ff3131;
+}
