@@ -87,3 +87,34 @@ hr{
     font-size: 20px;
     text-align: center;
 }
+
+/* Plan Styles */
+.plan-header{
+    text-align: center;
+    margin-top: 120px;
+}
+.plan-container{
+    display: flex;
+    margin: 60px 200px;
+    gap: 20px;
+}
+.plan-box{
+    padding: 50px 30px;
+}
+.plan-title{
+    font-size: 22px;
+    margin: 20px 0;
+}
+.plan-text{
+    font-size: 18px;
+    color: #707070;
+}
+.first-color{
+    background-color: #4F9DA61A;
+}
+.second-color{
+    background-color: #FF59591A;
+}
+.third-color{
+    background-color: #FFF4D6;
+}
