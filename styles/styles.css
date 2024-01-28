@@ -118,3 +118,17 @@ hr{
 .third-color{
     background-color: #FFF4D6;
 }
+
+/* How To Contribute Styles */
+.contribute{
+    margin: 100px 200px 0;
+}
+.contribute-box{
+    display: flex;
+    gap: 100px;
+    align-items: center;
+    margin-bottom: 100px;
+}
+.contribute-img{
+    width: 50%;
+}
